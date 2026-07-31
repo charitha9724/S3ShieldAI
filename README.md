@@ -95,13 +95,27 @@ User uploads policy (JSON)
 
 ---
 
-## Demo
+## Screenshots
 
-| Dashboard | AI Explanation → Remediated Policy |
-|---|---|
-| ![Dashboard Demo](demo/upload-analysis.gif) | ![AI Summary and Remediation Demo](demo/ai-remediation.gif) |
+**Landing Page**
+![Landing Hero](screenshots/01-landing-hero.png)
 
-_Place your two GIFs in a `/demo` folder at the project root as `upload-analysis.gif` and `ai-remediation.gif` (or update the paths above to match your filenames)._
+**How It Works**
+![How It Works](screenshots/02-how-it-works.png)
+
+**Feature Overview**
+![Features Overview](screenshots/03-features-overview.png)
+
+**Security Dashboard — Risk Score & Summary**
+![Dashboard Security Score](screenshots/04-dashboard-security-score.png)
+
+**AI Security Summary, RAG Knowledge Base & Findings**
+![AI Summary and Remediation](screenshots/05-ai-summary-remediation.png)
+
+**Security Posture, Risk Distribution & Policy Comparison**
+![Policy Comparison](screenshots/06-policy-comparison.png)
+
+_Place these six images in a `/screenshots` folder at the project root using the filenames referenced above._
 
 ---
 
