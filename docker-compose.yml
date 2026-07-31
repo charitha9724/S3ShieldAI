@@ -1,0 +1,20 @@
+services:
+  backend:
+    container_name: s3shield-backend
+    build:
+      context: ./backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    restart: unless-stopped
+
+  frontend:
+    container_name: s3shield-frontend
+    build:
+      context: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
