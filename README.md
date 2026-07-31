@@ -2,8 +2,6 @@
 
 A full-stack cloud security platform that combines a **deterministic rule engine** with **Retrieval-Augmented Generation (RAG)** to detect S3 bucket policy misconfigurations, explain *why* they're dangerous, and auto-generate a secure, remediated policy — grounded in real AWS documentation instead of raw LLM guesswork.
 
-- **Live Frontend**: _add your deployed link here_
-- **Live API / Swagger Docs**: _add your deployed link here_
 - **GitHub**: https://github.com/charitha9724/S3ShieldAI
 
 ---
