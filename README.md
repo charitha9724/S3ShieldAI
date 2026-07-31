@@ -115,7 +115,6 @@ User uploads policy (JSON)
 **Security Posture, Risk Distribution & Policy Comparison**
 ![Policy Comparison](screenshots/06-policy-comparison.png)
 
-_Place these six images in a `/screenshots` folder at the project root using the filenames referenced above._
 
 ---
 
